@@ -1,4 +1,4 @@
-# Riverfront AI
+![Riverfront AI Banner](../assets/banner.png)
 
 Engineering consultancy specializing in AI systems, inference optimization, and production ML infrastructure.
 

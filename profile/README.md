@@ -1,4 +1,4 @@
-![Riverfront AI Banner](../assets/banner-new.png)
+![Riverfront AI Banner](../assets/banner-new2.png)
 
 Engineering consultancy specializing in AI systems, inference optimization, and production ML infrastructure.
 
